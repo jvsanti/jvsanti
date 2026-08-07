@@ -2,13 +2,13 @@
 
 # João Victor Santiago
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0B5566&center=true&vCenter=true&width=560&lines=Quality+Analyst+III;Certified+QA+Engineer+%E2%80%94+Mate+Academy;6%2B+years+in+root+cause+%26+quality+process)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0B5566&center=true&vCenter=true&width=560&lines=Quality+Analyst;Certified+QA+Engineer+%E2%80%94+Mate+Academy;6%2B+years+in+root+cause+%26+quality+process)](https://git.io/typing-svg)
 
 </div>
 
 Quality Analyst III, on-site resident for the Stellantis client, and certified QA Engineer (Mate Academy).
 
-6+ years investigating defects and root causes in automotive manufacturing (IATF 16949 / ISO 9001) — 8D, Pareto, Ishikawa, SPC. I brought that mindset to software testing: led a full STLC cycle end-to-end (Test Plan → execution → bug report), and found 39 real bugs across 13 sites/apps, including a checkout-breaking bug on Domino's Brazil (live production).
+6+ years investigating defects and root causes in automotive manufacturing (IATF 16949 / ISO 9001) — 8D, Pareto, Ishikawa, SPC. I brought that mindset to software testing: led a full STLC cycle end-to-end (Test Plan → execution → bug report), and found 39 real bugs across 13 sites/apps, including a checkout-breaking bug on Domino's Brazil (live production) and a password-policy flaw on OWASP Juice Shop.
 
 The [qa-portfolio](https://github.com/jvsanti/qa-portfolio) repo has everything in detail — more projects get added as they're finished.
 
