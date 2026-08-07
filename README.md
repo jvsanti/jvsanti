@@ -14,9 +14,6 @@ The [qa-portfolio](https://github.com/jvsanti/qa-portfolio) repo has everything 
 
 **Before this:** built ARGOSYS, a full-stack system used in the field for quality inspection at WHB/Stellantis.
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 ### Stack
 
@@ -29,6 +26,9 @@ The [qa-portfolio](https://github.com/jvsanti/qa-portfolio) repo has everything 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![TestRail](https://img.shields.io/badge/TestRail-65C179?style=flat-square&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 ### Contact
 
