@@ -2,7 +2,7 @@
 
 # João Victor Santiago
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0B5566&center=true&vCenter=true&width=560&lines=Quality+Analyst+III+%40+Stellantis;Certified+QA+Engineer+%E2%80%94+Mate+Academy;6%2B+years+in+root+cause+%26+quality+process)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0B5566&center=true&vCenter=true&width=560&lines=Quality+Analyst+III;Certified+QA+Engineer+%E2%80%94+Mate+Academy;6%2B+years+in+root+cause+%26+quality+process)](https://git.io/typing-svg)
 
 </div>
 
@@ -28,5 +28,4 @@ The [qa-portfolio](https://github.com/jvsanti/qa-portfolio) repo has everything 
 
 ### Contact
 
-[![Email](https://img.shields.io/badge/Email-jv.santiago%40live.com-0B5566?style=flat-square&logo=maildotru&logoColor=white)](mailto:jv.santiago@live.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jvsanti-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jvsanti)
