@@ -1,32 +1,51 @@
 <div align="center">
+  <img src="./assets/banner.svg" width="100%" alt="João Victor Santiago — QA Engineer" />
+</div>
 
-# João Victor Santiago
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0B5566&center=true&vCenter=true&width=560&lines=Analista+de+Qualidade+III++;QA+Engineer+certificado+%E2%80%94+Mate+Academy;6%2B+anos+em+causa+raiz+e+processo+de+qualidade)](https://git.io/typing-svg)
+![Quality Analyst III](https://img.shields.io/badge/ROLE-Quality_Analyst_III-FF2BD6?style=for-the-badge&labelColor=05060f)
+![QA Engineer](https://img.shields.io/badge/CERT-QA_Engineer-00E5FF?style=for-the-badge&labelColor=05060f)
+![IATF 16949](https://img.shields.io/badge/STANDARD-IATF_16949-39FF88?style=for-the-badge&labelColor=05060f)
 
 </div>
 
-Analista de Qualidade III, residente no cliente Stellantis, e QA Engineer certificado (Mate Academy).
+```
+> whoami
+Quality Analyst III, on-site resident for the Stellantis client.
+Certified QA Engineer (Mate Academy).
+6+ years finding root causes in automotive manufacturing — now finding them in software.
 
-6+ anos investigando defeitos e causa raiz na indústria automotiva (IATF 16949 / ISO 9001) — 8D, Pareto, Ishikawa, CEP. Levei essa mentalidade pra testes de software: um ciclo STLC completo (30 casos de teste, 73% de aprovação), 36 casos desenhados a partir de user stories, e 34+ bugs documentados em 13 sites/apps, incluindo um bug real no checkout da Domino's Brasil e uma falha na política de senha do OWASP Juice Shop.
+> background
+- 8D, 5-Why, Pareto Analysis, Ishikawa, SPC — daily tools, not theory
+- Full STLC cycle led end-to-end: Test Plan -> execution -> bug report
+- 39 real bugs found across 13 sites/apps, including a checkout-breaking
+  bug on Domino's Brazil (live production) and a password-policy flaw
+  on OWASP Juice Shop
+- Built ARGOSYS, a full-stack quality-inspection system (React/TypeScript/
+  Supabase) used in the field at WHB/Stellantis
 
-O repositório [qa-portfolio](https://github.com/jvsanti/qa-portfolio) tem tudo detalhado — vou adicionando mais projetos conforme ficam prontos.
+> portfolio --repo
+https://github.com/jvsanti/qa-portfolio
+```
 
-**Antes disso:** desenvolvi o ARGOSYS, sistema full-stack (React/TypeScript/Supabase) usado em campo pra inspeção de qualidade na WHB/Stellantis.
+<div align="center">
 
-### Stack
+### stack
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![TestRail](https://img.shields.io/badge/TestRail-65C179?style=flat-square&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-05060f?style=for-the-badge&logo=postgresql&logoColor=00E5FF)
+![Git](https://img.shields.io/badge/Git-05060f?style=for-the-badge&logo=git&logoColor=FF2BD6)
+![JavaScript](https://img.shields.io/badge/JavaScript-05060f?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-05060f?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-05060f?style=for-the-badge&logo=css3&logoColor=00E5FF)
+![Playwright](https://img.shields.io/badge/Playwright-05060f?style=for-the-badge&logo=playwright&logoColor=39FF88)
+![Postman](https://img.shields.io/badge/Postman-05060f?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Jira](https://img.shields.io/badge/Jira-05060f?style=for-the-badge&logo=jira&logoColor=0052CC)
+![TestRail](https://img.shields.io/badge/TestRail-05060f?style=for-the-badge&logoColor=39FF88)
 
-### Contato
+### contact
 
+[![Email](https://img.shields.io/badge/jv.santiago@live.com-05060f?style=for-the-badge&logo=maildotru&logoColor=FF2BD6)](mailto:jv.santiago@live.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin/in/jvsanti-05060f?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](https://linkedin.com/in/jvsanti)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jvsanti-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jvsanti)
+</div>
