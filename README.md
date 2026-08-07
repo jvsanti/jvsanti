@@ -2,7 +2,7 @@
 
 # João Victor Santiago
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0B5566&center=true&vCenter=true&width=560&lines=Analista+de+Qualidade+III+%40+Stellantis;QA+Engineer+certificado+%E2%80%94+Mate+Academy;6%2B+anos+em+causa+raiz+e+processo+de+qualidade)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0B5566&center=true&vCenter=true&width=560&lines=Analista+de+Qualidade+IIIs;QA+Engineer+certificado+%E2%80%94+Mate+Academy;6%2B+anos+em+causa+raiz+e+processo+de+qualidade)](https://git.io/typing-svg)
 
 </div>
 
