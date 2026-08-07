@@ -28,5 +28,4 @@ O repositório [qa-portfolio](../../qa-portfolio) tem tudo detalhado — vou adi
 
 ### Contato
 
-[![Email](https://img.shields.io/badge/Email-jv.santiago%40live.com-0B5566?style=flat-square&logo=maildotru&logoColor=white)](mailto:jv.santiago@live.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jvsanti-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jvsanti)
