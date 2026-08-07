@@ -10,7 +10,7 @@ Analista de Qualidade III, residente no cliente Stellantis, e QA Engineer certif
 
 6+ anos investigando defeitos e causa raiz na indústria automotiva (IATF 16949 / ISO 9001) — 8D, Pareto, Ishikawa, CEP. Levei essa mentalidade pra testes de software: um ciclo STLC completo (30 casos de teste, 73% de aprovação), 36 casos desenhados a partir de user stories, e 34+ bugs documentados em 13 sites/apps, incluindo um bug real no checkout da Domino's Brasil e uma falha na política de senha do OWASP Juice Shop.
 
-O repositório [qa-portfolio](../../qa-portfolio) tem tudo detalhado — vou adicionando mais projetos conforme ficam prontos.
+O repositório [qa-portfolio](../qa-portfolio) tem tudo detalhado — vou adicionando mais projetos conforme ficam prontos.
 
 **Antes disso:** desenvolvi o ARGOSYS, sistema full-stack (React/TypeScript/Supabase) usado em campo pra inspeção de qualidade na WHB/Stellantis.
 
