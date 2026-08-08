@@ -6,7 +6,7 @@
 
 </div>
 
-Quality Analyst III, on-site resident for the Stellantis client, and certified QA Engineer (Mate Academy).
+Quality Analyst III, on-site resident for the Stellantis client, and certified QA Engineer ([Mate Academy](https://mate.academy/)).
 
 6+ years investigating defects and root causes in automotive manufacturing (IATF 16949 / ISO 9001) — 8D, Pareto, Ishikawa, SPC.
 I brought that mindset to software testing: led a full STLC cycle end-to-end (Test Plan → execution → bug report), and found 39 real bugs across 13 sites/apps, including a checkout-breaking bug on Domino's Brazil (live production).
