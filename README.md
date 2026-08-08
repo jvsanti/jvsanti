@@ -13,7 +13,7 @@ I brought that mindset to software testing: led a full STLC cycle end-to-end (Te
 
 The [qa-portfolio](https://github.com/jvsanti/qa-portfolio) repo has everything in detail — more projects get added as they're finished.
 
-**Before this:** built [ARGOSYS](https://argosys.vercel.app/), a full-stack system used in the field for quality inspection at WHB/Stellantis.
+**Before this:** built [ARGOSYS](https://argosys.vercel.app/), a full-stack system used in the field for quality inspection at [WHB](https://www.whbbrasil.com.br/)/[Stellantis](https://www.stellantis.com/en).
 
 
 ### Stack
