@@ -9,12 +9,12 @@
 Quality Analyst III, on-site resident for the Stellantis client, and certified QA Engineer ([Mate Academy](https://mate.academy/)).
 
 6+ years investigating defects and root causes in automotive manufacturing (IATF 16949 / ISO 9001) — 8D, Pareto, Ishikawa, SPC.
+
 I brought that mindset to software testing: led a full STLC cycle end-to-end (Test Plan → execution → bug report), and found 39 real bugs across 13 sites/apps, including a checkout-breaking bug on [Domino's Brazil](https://www.dominos.com.br/) (live production).
 
-The [qa-portfolio](https://github.com/jvsanti/qa-portfolio) repo has everything in detail — more projects get added as they're finished.
+The [qa-portfolio](https://github.com/jvsanti/qa-portfolio) repo has manual testing (STLC, test design, bug reports) — the [qa-playwright-lab](https://github.com/jvsanti/qa-playwright-lab) repo has E2E test automation (Page Object Model, cross-browser, dynamic test data with Faker).
 
 **Before this:** built [ARGOSYS](https://argosys.vercel.app/), a full-stack system used in the field for quality inspection at [WHB](https://www.whbbrasil.com.br/)/[Stellantis](https://www.stellantis.com/en).
-
 
 ### Stack
 
