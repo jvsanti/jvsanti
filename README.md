@@ -19,6 +19,13 @@ The [qa-portfolio](https://github.com/jvsanti/qa-portfolio) repo has manual test
 
 Outside QA, I've also been building [KAIROX](https://kairox.site/), an experimental AI-assisted trading research system. What is relevant to this role isn't the trading domain itself, but the engineering approach: automated data pipelines, validation gates, experiment evaluation, risk controls, and keeping human-defined criteria before anything is considered reliable
 
+[KAIROX](https://kairox.site/) is a personal AI-assisted trading intelligence system I’ve been building as a PWA. The trading domain is only one part of the project — technically, it involves real-time data ingestion, data-quality validation, signal discovery, experiment evaluation, risk controls, forward/paper validation and multiple decision gates before anything can be considered reliable.
+
+
+What makes it especially relevant to QA is that I designed it around the idea that a system should not be trusted just because it produces an output. Data can be incomplete, strategies can overfit, models can produce false confidence, and a technically successful execution can still be logically wrong. Because of that, I treat validation, observability and rejection criteria as first-class parts of the system
+
+
+
 **Testing:** 
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![TestRail](https://img.shields.io/badge/TestRail-65C179?style=flat-square&logoColor=white)
