@@ -15,6 +15,7 @@ I brought that mindset to software testing: led a full STLC cycle end-to-end (Te
 The [qa-portfolio](https://github.com/jvsanti/qa-portfolio) repo has manual testing (STLC, test design, bug reports) — the [qa-playwright-lab](https://github.com/jvsanti/qa-playwright-lab) repo has E2E test automation (Page Object Model, cross-browser, dynamic test data with Faker).
 
 **Before this:** built [ARGOSYS](https://argosys.vercel.app/), a full-stack system used in the field for quality inspection at [WHB](https://www.whbbrasil.com.br/)/[Stellantis](https://www.stellantis.com/en).
+Outside QA, I've also been building [KAIROX] (https://kairox.site/), an experimental AI-assisted trading research system. What is relevant to this role isn't the trading domain itself, but the engineering approach: automated data pipelines, validation gates, experiment evaluation, risk controls, and keeping human-defined criteria before anything is considered reliable
 
 **Testing:** 
 
