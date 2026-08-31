@@ -17,7 +17,7 @@ The [qa-portfolio](https://github.com/jvsanti/qa-portfolio) repo has manual test
 **Before this:** built [ARGOSYS](https://argosys.vercel.app/), a full-stack system used in the field for quality inspection at [WHB](https://www.whbbrasil.com.br/)/[Stellantis](https://www.stellantis.com/en).
 
 
-Outside QA, I've also been building [KAIROX](https://kairox.site/), an experimental AI-assisted trading research system. What is relevant to this role isn't the trading domain itself, but the engineering approach: automated data pipelines, validation gates, experiment evaluation, risk controls, and keeping human-defined criteria before anything is considered reliable
+I've also been building [KAIROX](https://kairox.site/), an experimental AI-assisted trading research system. What is relevant to this role isn't the trading domain itself, but the engineering approach: automated data pipelines, validation gates, experiment evaluation, risk controls, and keeping human-defined criteria before anything is considered reliable
 
 [KAIROX](https://kairox.site/) is a personal AI-assisted trading intelligence system I’ve been building as a PWA. The trading domain is only one part of the project — technically, it involves real-time data ingestion, data-quality validation, signal discovery, experiment evaluation, risk controls, forward/paper validation and multiple decision gates before anything can be considered reliable.
 
